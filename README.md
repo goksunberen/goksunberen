@@ -1,7 +1,7 @@
 ### Welcome to my profile! 👋
 
 ## 💫 About Me:
-💻 I'm currently working on web development<br>🤔 I'm currently learning React<br> 🧐 Curious about ML implementations in web apps <br> 👯 I'm open to collaborate on projects!<br>
+💻 Working on web development<br>🤔 Currently learning React<br> 🧐 Curious about ML implementations in web apps <br> 👯 Open to collaborate on projects!<br>
 
 
 ## 🌐 Socials:
