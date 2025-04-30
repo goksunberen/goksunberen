@@ -1,8 +1,5 @@
 ### Welcome to my profile! 👋
 
-## 💫 About Me:
-💻 Working on web development<br>🤔 Currently learning React<br> 🧐 Curious about ML implementations in web apps <br> 👯 Open to collaborate on projects!<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/goksunberen) 
